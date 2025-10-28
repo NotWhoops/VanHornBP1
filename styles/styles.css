@@ -1,0 +1,74 @@
+h1 {
+    background-color: gray;
+    color: white;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.grayBar {
+    background-color: gray;
+    margin-left:  40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.blackBar {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.textColor {
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+}
+.size {
+    margin-left:  50px;
+    margin-right: 50px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+.size1 {
+    margin-left: 250px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.size2 {
+    margin-left: 210px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.size3 {
+    margin-left:  95px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.custom-nav {
+    display: flex;
+    justify-content: space-between;
+}
+.image {
+    display: flex;
+    height: 252px;
+    width: 250px;
+    justify-content: flex-end;
+}
+.image2 {
+    height: 255px;
+    width: 532px;
+}
+.image3 {
+    height: 253px;
+    width: 649px;
+}
+.justifyContent {
+    display: flex;
+    justify-content: center;
+}
+.divBottom {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
