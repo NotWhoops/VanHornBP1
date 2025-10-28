@@ -6,4 +6,4 @@
 
  // created a website about me using bootstrap connected to github for the coding and a figma version
  
-// Peer Review:
+// Arianna Huntley:buttons need to be connected pictures are nice
